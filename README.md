@@ -1,6 +1,6 @@
-![doctorConsFD](https://user-images.githubusercontent.com/111413484/186174846-d5cfe926-e23e-4c64-99a5-8e8d9e078026.png)
-![doctorConstAppER](https://user-images.githubusercontent.com/111413484/186174854-991c46e9-43ce-4dfd-9b54-aeea7812afa5.png)
+
 Doctor Consultation Web App
+![image](https://user-images.githubusercontent.com/111413484/186175392-3e324cd4-5f99-4df2-adf5-9dc9609fcb1d.png)
 
 Link to use : https://doctor-consultationapp-shakthi.herokuapp.com/
 
@@ -15,4 +15,12 @@ Link to use : https://doctor-consultationapp-shakthi.herokuapp.com/
         Django 4, Python 3 
         sqlite3
         Git, Git Hub, Heroku
+
+FlowDiagram:
+   ![doctorConsFD](https://user-images.githubusercontent.com/111413484/186175059-d837fb4b-600d-480c-ab9b-62579cc3ec7c.png)
+   
+ER Diagram:
+   ![doctorConstAppER](https://user-images.githubusercontent.com/111413484/186175214-e7b37ebd-7346-40c4-a571-53533c71cf28.png)
+
+
 
