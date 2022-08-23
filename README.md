@@ -1,5 +1,7 @@
 
 Doctor Consultation Web App
+
+
 ![image](https://user-images.githubusercontent.com/111413484/186175392-3e324cd4-5f99-4df2-adf5-9dc9609fcb1d.png)
 
 Link to use : https://doctor-consultationapp-shakthi.herokuapp.com/
@@ -16,10 +18,16 @@ Link to use : https://doctor-consultationapp-shakthi.herokuapp.com/
         sqlite3
         Git, Git Hub, Heroku
 
-FlowDiagram:
+FlowDiagram
+
+
+
    ![doctorConsFD](https://user-images.githubusercontent.com/111413484/186175059-d837fb4b-600d-480c-ab9b-62579cc3ec7c.png)
    
-ER Diagram:
+ER Diagram
+
+
+
    ![doctorConstAppER](https://user-images.githubusercontent.com/111413484/186175214-e7b37ebd-7346-40c4-a571-53533c71cf28.png)
 
 
